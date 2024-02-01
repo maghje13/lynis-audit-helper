@@ -1,1 +1,1 @@
-linys audit system
+lynis audit system
