@@ -1,13 +1,9 @@
 # lynis-audit-helper
 A helper tool for using lynis audit tool
 ## Requirements
-mac:
+mac: brew
 
-brew
-
-linux:
-
-apt
+linux: apt
 ## How to use
 install: bash install-(type).sh
 
