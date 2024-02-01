@@ -1,0 +1,3 @@
+echo Installing lynis with apt...
+sudo apt install lynis
+echo Installer finished!

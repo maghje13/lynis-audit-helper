@@ -1,0 +1,3 @@
+echo Installing lynis with brew...
+brew install lynis
+echo Installer finisher!
